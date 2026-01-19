@@ -12,7 +12,7 @@ const Profile = () => {
         <Text className=" text-black  text-4xl font-normal mb-6">Profile</Text>
         <View className=" bg-[#34967C] h-[90px] mb-10 flex-row items-center rounded-md justify-between px-7">
           <View className="flex-row items-center gap-4">
-            <Image source={require("@/assets/images/sample-image.png")} />
+            <Image source={require("@/assets/images/user-image.png")} />
             <View>
               <Text className=" font-semibold text-xl text-white">
                 Cole Baidoo
