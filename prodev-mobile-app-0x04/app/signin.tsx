@@ -2,7 +2,7 @@ import { View, Text, TextInput, TouchableOpacity, ScrollView, Image } from 'reac
 import { Link } from 'expo-router';
 import { useState } from 'react';
 import { MaterialIcons } from '@expo/vector-icons';
-import { styles } from '@/styles/_joinstyle';
+import { styles } from '@/styles/_join';
 import { HEROLOGOGREEN, GOOGLELOGO, FACEBOOKLOGO } from '@/constants';
 
 export default function SignIn() {
