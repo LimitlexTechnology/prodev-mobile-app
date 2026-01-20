@@ -36,3 +36,4 @@ const HomeRootLayout = () => {
 }
 
 export default HomeRootLayout;
+
