@@ -84,7 +84,7 @@ export default function SignIn() {
       </View>
 
       <View style={styles.signupgroup}>
-        <Text style={styles.signupTitleText}>Don't have an account? </Text>
+        <Text style={styles.signupTitleText}>{"Don't have an account? "}</Text>
         <Link href="/join" asChild>
           <TouchableOpacity>
             <Text style={styles.signupSubTitleText}>Sign Up</Text>
